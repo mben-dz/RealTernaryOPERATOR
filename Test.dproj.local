@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.120,D:\2025\Projects\Unit1.pas=D:\2026\Question\Main.View.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.553,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.367,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.560,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.105,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.273,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.133,=D:\2026\Question\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.912,D:\2026\Question\Unit1.pas=D:\2026\Question\API\API.Test.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.765,D:\2025\Projects\Project1.dproj=D:\2026\Question\Test.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.150,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.521,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.120,D:\2025\Projects\Unit1.dfm=D:\2026\Question\Main.View.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
