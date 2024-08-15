@@ -63,9 +63,9 @@ begin
   LResult := '';
 
   if aCondition then begin
-    if aTrue <> nil then LResult := aTrue^ else LResult := '';
+    if Assigned(aTrue) then LResult := aTrue^ else LResult := '';
   end else begin
-    if aFalse <> nil then LResult := aFalse^ else LResult := '';
+    if Assigned(aFalse) then LResult := aFalse^ else LResult := '';
   end;
 
   Result := LResult;
@@ -92,7 +92,7 @@ var
   LObj: TMyClass;
 begin
   LObj := nil;
-  LObj := TMyClass.Create;
+//  LObj := TMyClass.Create;
 
   Label1.Caption := If_Then(IsAllocated(LObj),
     LObj.Value.ToPointer, 'Not Allocated Yet !!'.ToPointer);
